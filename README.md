@@ -12,7 +12,7 @@
 
 ## 🎬 What This Is
 
-Watch a neural network go from bumping into walls to confidently hunting down food — all without ever being told the rules of Snake. It only knows two things: **eating feels good (+10)**, **dying feels bad (−10)** — and from that alone, it works out the rest.
+Watch a neural network go from bumping into walls to confidently hunting down food all without ever being told the rules of Snake. It only knows two things: **eating feels good (+10)**, **dying feels bad (−10)** — and from that alone, it works out the rest.
 
 This project is a hands-on demonstration of **Reinforcement Learning**, specifically **Deep Q-Learning (DQN)**, applied to a game simple enough to watch and complex enough to be genuinely interesting.
 
